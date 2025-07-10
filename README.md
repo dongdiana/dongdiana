@@ -3,7 +3,7 @@
 </div>
 
 ## Interest 🔍
-- Natural Language Processing
+- ML/DL/NLP
 - Large Language Model
 - Data Science
 
