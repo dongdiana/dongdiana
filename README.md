@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&text=Dongjoo%Lee&animation=fadeIn&fontSize=50">
 </div>
 
-## Interest 
-- ML/DL/NLP
-- Large Language Model
-- Data Science
 
 ## Education 
 - M.S. in Statistics, Korea University (2025.03 – Present)  
